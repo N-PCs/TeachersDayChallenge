@@ -1,2 +1,2 @@
 # TeachersDayChallenge
-43 days of beginner friendly Leetcode!
+43 days of beginner friendly Leetcode / CodeForces!
