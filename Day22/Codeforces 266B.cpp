@@ -1,5 +1,5 @@
 #include <iostream>
-#include <string>
+
 using namespace std;
  
 int main() {
@@ -15,6 +15,7 @@ int main() {
                 next[i+1] = 'B';
             }
         }
+     
         s = next;
     }
     cout << s << endl;
