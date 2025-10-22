@@ -1,10 +1,10 @@
 #include <iostream>
 using namespace std;
 int main(){
-    string s;
-    cin>>s;
+    string t;
+    cin>>t;
     
-    s[0]=toupper(s[0]);
-    cout<<s;
+    t[0]=toupper(t[0]);
+    cout<<t;
     return 0;
 }
